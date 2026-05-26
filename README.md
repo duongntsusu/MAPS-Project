@@ -1,4 +1,6 @@
-<img width="505" height="337" alt="voronoi" src="https://github.com/user-attachments/assets/a3650951-8576-43d7-b875-71c3ecaf9a47" />
+<p align="center">
+  <img  width="505" height="337" alt="voronoi" src="https://github.com/user-attachments/assets/a3650951-8576-43d7-b875-71c3ecaf9a47" />
+</p>
 
 This project explores Machine Learning and data visualization using the Yelp Academic Dataset. The application predicts restaurant ratings based on user preferences and visualizes restaurant clusters across Berkeley using a Voronoi diagram. The map divides Berkeley into regions, where each region is shaded according to the predicted rating of the nearest restaurant — yellow represents highly rated restaurants (5 stars) while blue represents lower-rated restaurants (1 star). Each restaurant is displayed as a colored point on the map, with colors corresponding to geographic clusters discovered through machine learning.
 
